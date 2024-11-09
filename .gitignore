@@ -1,3 +1,8 @@
 *.egg-info
 __pycache__/
 *.pyc
+
+*.xlsx
+annual.txt
+FUT86_16.txt
+
