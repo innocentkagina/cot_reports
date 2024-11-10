@@ -1,3 +1,6 @@
 pandas
 requests
 beautifulsoup4
+seaborn
+matplotlib
+openpyxl
